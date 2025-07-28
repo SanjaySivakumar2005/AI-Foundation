@@ -1,3 +1,4 @@
+<img width="1710" height="1107" alt="Screenshot 2025-07-28 at 1 42 06 PM" src="https://github.com/user-attachments/assets/d19e940c-ab4a-4e56-a322-91fbc5bffe5c" />
 🗣️ Language Translator AI Chatbot (English to German)
 
 This project is an AI-powered language translation chatbot that translates English text into German using a pre-trained transformer model. It demonstrates how Natural Language Processing (NLP) and machine learning can be used to build real-time, interactive language translation systems.
